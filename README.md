@@ -35,12 +35,12 @@ The game includes full functionality for **win checking**, **tie checking**, and
 5. Follow the on-screen instructions to play the game.
 
 ## 🧠 Concepts Used
-    Python Functions
-    Loops and Conditional Statements
-    Lists and Indexing
-    Random Module
-    User Input Handling
-    Game Loop Control
+- Python Functions
+- Loops and Conditional Statements
+- Lists and Indexing
+- Random Module
+- User Input Handling
+- Game Loop Control
 
 ## ✨ Demo (Example Gameplay)
 
@@ -61,6 +61,6 @@ Player 1, choose your position (1-9):
 
 ## 👨‍💻 Author
 Aravind Kalyan
-Passionate Python Developer 🚀 | Always Learning 🎯
+- Passionate Python Developer 🚀 | Always Learning 🎯
 
 
